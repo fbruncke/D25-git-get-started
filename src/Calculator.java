@@ -10,4 +10,14 @@ public class Calculator {
         return sumant1 + sumant2;
     }
 
+    /**
+     * Multiply two numbers
+     * @param factor1
+     * @param factor2
+     * @return
+     */
+    public static int multiply(int factor1, int factor2) {
+        return factor1 * factor2;
+    }
+
 }
